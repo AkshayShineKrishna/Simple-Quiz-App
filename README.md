@@ -1,3 +1,5 @@
+![Repository Banner](https://github.com/AkshayShineKrishna/Simple-Quiz-App/blob/main/Header.jpg)
+
 # Simple Quiz App
 
 Explore the world of Flutter with this simple and interactive quiz app repository. This GitHub project is designed to be a beginner-friendly introduction to Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
